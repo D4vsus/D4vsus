@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm David Jesús Fernández Olmos</h1>
-<h3 align="center">Developer of Data Scienece</h3>
+<h3 align="center">Data Scienece Developer</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=d4vsus" alt="d4vsus" /></a> </p>
 
