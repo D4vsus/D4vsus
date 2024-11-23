@@ -1,16 +1,82 @@
-<h1 align="center">Hi 👋, I'm David Jesús Fernández Olmos</h1>
-<h3 align="center">Data Scienece Developer</h3>
+# David Jesús Fernández Olmos
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=d4vsus" alt="d4vsus" /></a> </p>
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)<br/>
+I'm David Jesús Fernández Olmos, software developer.
 
-- 🌱 I’m currently learning **Sci-kit,Keras and SpringBoot**
+## 🚀 About Me
 
-- 💬 Ask me about **java and python**
+I'm interested in data science, ML and DL and also in backend and desktop development.<br/>
+I love challenges and and solve problerms. Once I start a project, I never stop until I finish
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/david-jes%C3%BAs-fern%C3%A1ndez-olmos-556130306/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/david-jes%c3%bas-fern%c3%a1ndez-olmos-556130306/" height="30" width="40" /></a>
+## 🛠 Skills
+
+### Data science
+<p>
+  <a href="https://www.python.org/">
+    <img src="https://skillicons.dev/icons?i=python" alt="python"/>
+  </a>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=sklearn"  alt="sci-kit"/>
+  </a>
+  <a href="https://keras.io/">
+    <img src="https://raw.githubusercontent.com/valohai/ml-logos/refs/heads/master/keras.svg" width="45" alt="keras"/>
+  </a>
+    <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="45" height="45"/>
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> </p>
+### Backend
+<p>
+  <a href="https://www.java.com/en/">
+    <img src="https://skillicons.dev/icons?i=java"  alt="java"/>
+  </a>
+  <a href="https://spring.io/">
+    <img src="https://skillicons.dev/icons?i=spring"  alt="spring"/>
+  </a>
+  <a href="https://www.oracle.com/en/database/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="45" height="45"/> 
+  </a>
+</p>
+
+### Frontend
+<p>
+  <a href="https://developer.mozilla.org/es/docs/Web/HTML">
+    <img src="https://skillicons.dev/icons?i=html"  alt="java"/>
+  </a>
+  <a href="https://developer.mozilla.org/es/docs/Web/CSS">
+    <img src="https://skillicons.dev/icons?i=css"  alt="spring"/>
+  </a>
+</p>
+
+### Mobile dev
+[![Mobile dev](https://skillicons.dev/icons?i=androidstudio)](https://developer.android.com/studio?hl=en-419)
+
+### CVS
+[![Mobile dev](https://skillicons.dev/icons?i=git)](https://git-scm.com/)
+
+
+
+## 🏆 Trophies
+<p> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=d4vsus" alt="d4vsus" /></a> </p>
+
+## 📱 Contact me 
+
+
+<b>Linkedin: <a href="https://www.linkedin.com/in/david-jesus-fernandez-olmos-556130306/">www.linkedin.com/in/david-jesus-fernandez-olmos-556130306</a></b> <br/>
+
+<b>Email: <a href="mailto:davsus@protonmail.com">davsus@protonmail.com</a></b><br/>
+
+<b>Github: <a href="https://github.com/D4vsus">D4vsus</a></b>
+<p>
+  <a href="https://github.com/D4vsus">
+    <img src="https://skillicons.dev/icons?i=github"  alt="GitHub"/>
+  </a>
+  <a href="mailto:davsus@protonmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail"  alt="Email"/>
+  </a>
+  <a href="https://www.linkedin.com/in/david-jesus-fernandez-olmos-556130306/">
+    <img src="https://skillicons.dev/icons?i=linkedin"  alt="Linkedin"/>
+  </a>
+</p>
+
