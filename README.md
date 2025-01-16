@@ -37,7 +37,7 @@ I love challenges and and solve problerms. Once I start a project, I never stop 
   <a href="https://www.oracle.com/en/database/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="45" height="45"/> 
   </a>
-  <a href="https://skillicons.dev">
+  <a href="https://www.postgresql.org">
     <img src="https://skillicons.dev/icons?i=postgres" />
   </a>
   <p align="center">
