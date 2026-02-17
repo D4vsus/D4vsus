@@ -81,10 +81,6 @@ I love challenges and solve problems. Once I start a project, I never stop until
 </a>
 
 
-
-## 🏆 Trophies
-<p> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=d4vsus" alt="D4vsus" /></a> </p>
-
 ## 📱 Contact me 
 
 
