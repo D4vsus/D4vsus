@@ -5,52 +5,61 @@ I'm David Jesús Fernández Olmos, software developer.
 
 ## 🚀 About Me
 
-I'm interested in data science, ML and DL and also in backend and desktop development.<br/>
-I love challenges and and solve problerms. Once I start a project, I never stop until I finish
+I'm interested in Data-Science, ML and also in Full-Stack development.<br/>
+I love challenges and solve problems. Once I start a project, I never stop until I finish.
 
 ## 🛠 Skills
 
 ### Data science
 <p>
   <a href="https://www.python.org/">
-    <img src="https://skillicons.dev/icons?i=python" alt="python"/>
+    <img src="https://skillicons.dev/icons?i=python" alt="Python"/>
   </a>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=sklearn"  alt="sci-kit"/>
+    <img src="https://skillicons.dev/icons?i=sklearn"  alt="Sci-Kit"/>
   </a>
   <a href="https://keras.io/">
-    <img src="https://raw.githubusercontent.com/valohai/ml-logos/refs/heads/master/keras.svg" width="45" alt="keras"/>
+    <img src="https://raw.githubusercontent.com/valohai/ml-logos/refs/heads/master/keras.svg" width="45" alt="Keras"/>
   </a>
     <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="45" height="45"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="Pandas" width="45" height="45"/>
   </a>
 </p>
 
 ### Backend
 <p>
   <a href="https://www.java.com/en/">
-    <img src="https://skillicons.dev/icons?i=java"  alt="java"/>
+    <img src="https://skillicons.dev/icons?i=java"  alt="Java"/>
   </a>
   <a href="https://spring.io/">
-    <img src="https://skillicons.dev/icons?i=spring"  alt="spring"/>
+    <img src="https://skillicons.dev/icons?i=spring"  alt="Spring"/>
   </a>
   <a href="https://www.oracle.com/en/database/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="45" height="45"/> 
   </a>
   <a href="https://www.postgresql.org">
-    <img src="https://skillicons.dev/icons?i=postgres" />
+    <img src="https://skillicons.dev/icons?i=postgres" alt="Postgres"/>
   </a>
   <p align="center">
-</p>
+  </p>
 </p>
 
 ### Frontend
 <p>
   <a href="https://developer.mozilla.org/es/docs/Web/HTML">
-    <img src="https://skillicons.dev/icons?i=html"  alt="java"/>
+    <img src="https://skillicons.dev/icons?i=html"  alt="HTML"/>
   </a>
   <a href="https://developer.mozilla.org/es/docs/Web/CSS">
-    <img src="https://skillicons.dev/icons?i=css"  alt="spring"/>
+    <img src="https://skillicons.dev/icons?i=css"  alt="CSS"/>
+  </a>
+  <a href="https://www.typescriptlang.org/">
+    <img src="https://skillicons.dev/icons?i=ts"  alt="TypeScript"/>
+  </a>
+  <a href="https://www.typescriptlang.org/">
+    <img src="https://skillicons.dev/icons?i=js"  alt="JavaScript"/>
+  </a>
+  <a href="https://angular.dev/">
+    <img src="https://skillicons.dev/icons?i=angular"  alt="Angular"/>
   </a>
 </p>
 
@@ -60,10 +69,21 @@ I love challenges and and solve problerms. Once I start a project, I never stop 
 ### CVS
 [![Mobile dev](https://skillicons.dev/icons?i=git)](https://git-scm.com/)
 
+### DevOps
+<a href="https://grafana.com/">
+  <img src="https://skillicons.dev/icons?i=grafana"  alt="Grafana"/>
+</a>
+<a href="https://www.docker.com/">
+  <img src="https://skillicons.dev/icons?i=docker"  alt="Docker"/>
+</a>
+<a href="https://azure.microsoft.com/es-es/products/devops/">
+  <img src="https://skillicons.dev/icons?i=azure"  alt="Azure DevOps"/>
+</a>
+
 
 
 ## 🏆 Trophies
-<p> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=d4vsus" alt="d4vsus" /></a> </p>
+<p> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=d4vsus" alt="D4vsus" /></a> </p>
 
 ## 📱 Contact me 
 
@@ -81,7 +101,7 @@ I love challenges and and solve problerms. Once I start a project, I never stop 
     <img src="https://skillicons.dev/icons?i=gmail"  alt="Email"/>
   </a>
   <a href="https://www.linkedin.com/in/david-jesus-fernandez-olmos-556130306/">
-    <img src="https://skillicons.dev/icons?i=linkedin"  alt="Linkedin"/>
+    <img src="https://skillicons.dev/icons?i=linkedin"  alt="LinkedIn"/>
   </a>
 </p>
 
