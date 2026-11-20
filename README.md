@@ -89,6 +89,9 @@ I love challenges and solve problems. Once I start a project, I never stop until
 <b>Email: <a href="mailto:davsus@protonmail.com">davsus@protonmail.com</a></b><br/>
 
 <b>Github: <a href="https://github.com/D4vsus">D4vsus</a></b>
+
+<b>Web: <a href="https://d4vsus.github.io/web/">https://d4vsus.github.io/web/</a></b><br/>
+
 <p>
   <a href="https://github.com/D4vsus">
     <img src="https://skillicons.dev/icons?i=github"  alt="GitHub"/>
